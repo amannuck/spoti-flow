@@ -1,15 +1,15 @@
-# **SpotiPilot** 🎧
+# **SpotiFlow** 🎧
 
-**SpotiPilot** is a browser extension that lets you control your Spotify Web Player from any open tab. Play, pause, skip tracks, and manage your music without ever needing to switch tabs. Simple, sleek, and intuitive.
+**SpotiFlow** is a browser extension that lets you control your Spotify Web Player from any open tab. Play, pause, skip tracks, and manage your music without ever needing to switch tabs. Simple, sleek, and intuitive.
 
 ---
 
 ## 🚀 **Installation Guide**
 
-Follow these simple steps to install **SpotiPilot** and start controlling your music:
+Follow these simple steps to install **SpotiFlow** and start controlling your music:
 
 ### 1. **Download the ZIP File**
-- Click on the link to download the **SpotiPilot** ZIP file containing the extension code.
+- Click on the link to download the **SpotiFlow** ZIP file containing the extension code.
 
 ### 2. **Extract the ZIP File**
 - Once downloaded, extract the ZIP file to a location on your computer.
@@ -26,14 +26,14 @@ Follow these simple steps to install **SpotiPilot** and start controlling your m
 - Select the folder and click **Open**.
 
 ### 5. **Enjoy!** 🎶
-- The **SpotiPilot** extension should now be active! You can see the extension icon in your browser toolbar.
+- The **SpotiFlow** extension should now be active! You can see the extension icon in your browser toolbar.
 - Click on it to control your Spotify Web Player playback from any tab.
 
 ---
 
 ## 🛠️ **Usage**
 
-- Click the **SpotiPilot** icon in the toolbar to open the control panel.
+- Click the **SpotiFlow** icon in the toolbar to open the control panel.
 - Use the Play/Pause, Next, and Previous buttons to control your music.
 - The extension will work across all open tabs with Spotify.
 
