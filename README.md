@@ -9,7 +9,7 @@
 Follow these simple steps to install **SpotiFlow** and start controlling your music:
 
 ### 1. **Download the ZIP File**
-- Click on the link to download the **SpotiFlow** ZIP file containing the extension code.
+- Click on the [link](https://github.com/amannuck/spoti-flow/archive/refs/heads/master.zip) to download the **SpotiFlow** ZIP file containing the extension code.
 
 ### 2. **Extract the ZIP File**
 - Once downloaded, extract the ZIP file to a location on your computer.
