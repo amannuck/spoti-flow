@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Spoti-Flow",
+  "name": "SpotiFlow",
   "version": "1.0.0",
   "description": "Control Spotify playback across all browser tabs",
   "action": {
