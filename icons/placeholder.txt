@@ -1,7 +1,0 @@
-These icon files (icon-16.png, icon-48.png, icon-128.png) need to be created and placed in this directory.
-For the extension to work properly, create icons in the proper dimensions or use an SVG that can be resized.
-
-Spotify-like icon designs should be created in sizes:
-- 16x16 pixels
-- 48x48 pixels
-- 128x128 pixels
