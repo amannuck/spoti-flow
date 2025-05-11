@@ -1,5 +1,9 @@
 # **SpotiFlow** 🎧
 
+Having trouble in going back and forth through your tabs in order to change your Spotify music?
+
+*Do it in one click with our new SpotiFlow extension! You can use our shortcut to skip through your playlist and even mute the music if it disturbs your workflow. Our newest feature includes a shortcut that can redirect you to the Spotify tab where you can change playlists without cycling through tabs.*
+
 **SpotiFlow** is a browser extension that lets you control your Spotify Web Player from any open tab. Play, pause, skip tracks, and manage your music without ever needing to switch tabs. Simple, sleek, and intuitive.
 
 ---
